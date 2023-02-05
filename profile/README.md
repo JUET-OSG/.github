@@ -1,9 +1,6 @@
-### Welcome
 
-```
 JUET Open Source Group aims to introduce and bring Students closer to the amazing world of Open Source and help them build technical 
 skills, develop innovative stuff and contribute to different opensource projects worldwide. 
-```
 <!--
 
 **Here are some ideas to get you started:**
